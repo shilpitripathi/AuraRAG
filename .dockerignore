@@ -1,0 +1,14 @@
+.git
+.gitignore
+.env
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+frontend/
+test_*.py
+data/voice/*.mp3
+data/voice/*.webm
+chroma_db/
